@@ -1,0 +1,26 @@
+
+m io import StringIO
+>>> import sys
+>>> from my_module import say_my_name
+
+>>> sys.stdout = StringIO()
+>>> say_my_name("John", "Doe")
+>>> sys.stdout.getvalue().strip()
+'My name is John Doe'
+
+>>> sys.stdout = StringIO()
+>>> say_my_name("Walter", "White")
+>>> sys.stdout.getvalue().strip()
+'My name is Walter White'
+
+>>> sys.stdout = StringIO()
+>>> say_my_name("Bob")
+>>> sys.stdout.getvalue().strip()
+'My name is Bob'
+
+>>> try:
+...     say_my_name(12, "White")
+... except TypeError as e:
+...     str(e)
+'first_name must be a string'
+
