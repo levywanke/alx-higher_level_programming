@@ -1,5 +1,5 @@
 # 0x14. JavaScript - Web scraping
-###`Scripting
+`Scripting
 API`
 JavaScript
  By: Guillaume
