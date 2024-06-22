@@ -1,5 +1,3 @@
-Creating a comprehensive `README.md` file for the JavaScript - Web jQuery project (0x15):
-
 
 # 0x15. JavaScript - Web jQuery
 
@@ -48,14 +46,12 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ### More Info
 - Import JQuery:
-```html
+- html
 <head>
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 </head>
 
 
-### Manual QA Review
-It is your responsibility to request a review for this project from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a TA or staff member.
 
 ## Tasks
 ### 0. No JQuery (mandatory)
