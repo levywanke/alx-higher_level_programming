@@ -1,4 +1,4 @@
-bject-Relational Mapping with Python
+### `Object-Relational Mapping with Python`
 
 ## Introduction
 This project aims to demonstrate the implementation of Object-Relational Mapping (ORM) in Python using the SQLAlchemy library. The project involves connecting to a MySQL database and performing various operations such as querying and filtering data using both raw SQL queries and SQLAlchemy's ORM.
