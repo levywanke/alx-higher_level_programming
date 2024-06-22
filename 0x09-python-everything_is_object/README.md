@@ -1,6 +1,4 @@
-Certainly! Here's a README.md file that provides a comprehensive overview of the project:
 
----
 
 # Everything is an Object - Python Exploration
 
