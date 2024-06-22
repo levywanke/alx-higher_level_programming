@@ -1,6 +1,3 @@
-Certainly! Here's a README.md file structured for Higher-level programming topics including Python, Javascript, Databases, and AirBnB clone projects:
-
----
 
 # Higher-level Programming
 
@@ -22,6 +19,3 @@ The Databases section covers database management and SQL (Structured Query Langu
 
 The AirBnB Clone section is dedicated to building a simplified version of the AirBnB platform. Projects here involve full-stack development, integrating frontend technologies (HTML, CSS, JavaScript) with backend frameworks (Flask/Django for Python, Express.js for JavaScript), and database management.
 
----
-
-Feel free to explore each section to dive deeper into the respective programming language or topic. Each directory contains projects, scripts, and README files that provide detailed explanations, instructions, and resources to enhance your skills in higher-level programming and database management.
